@@ -1,6 +1,6 @@
 # 🕒 RiyalTime
 
-A simple, elegant digital clock built with HTML, CSS, and JavaScript.  
+A simple, elegant digital clock built with **HTML**, **CSS**, and **JavaScript**.  
 Stay on time with this lightweight, responsive clock that displays the current time in hours, minutes, and seconds.
 
 ---
